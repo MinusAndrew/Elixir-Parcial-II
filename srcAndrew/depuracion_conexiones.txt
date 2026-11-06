@@ -1,7 +1,0 @@
-Lines filtered, Generated as of Thursday 05/11/2026 19:24:43:
-Line 12: repeated (Line 6), discarded
-Line 15: Manizales,Manizales,0 -> it connects itself, will be discarded
-Line 18: different distance found compared to the one in line 9 (25.0); line 9 will be conserved
-Line 27: repeated (Line 21), discarded
-Line 30: Pereira,Pereira,0 -> it connects itself, will be discarded
-Line 31: Armenia,Armenia,10 -> it connects itself, will be discarded
