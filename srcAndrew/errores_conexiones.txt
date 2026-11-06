@@ -1,0 +1,6 @@
+Errors Found in CSV File, Generated as of Thursday 05/11/2026 19:24:43:
+Unexpected row format at 34, Content: Armenia,Bogota
+Not a number at line 35, Content: Bogota,Medellin,abc
+Empty Origin at line 36, Content: ,Quindio,50
+Empty Destination at line 37, Content: Armenia,,40
+Unexpected row format at 38, Content: Armenia,Cali,40,extra

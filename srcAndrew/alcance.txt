@@ -1,0 +1,36 @@
+Reporte de Alcanzabilidad, Generado el Thursday 05/11/2026 19:24:43
+
+--- Consulta: Armenia -> Manizales ---
+Iteración 0: Armenia
+Iteración 1: Armenia, Cali, Cartago, Pereira, Salento
+Iteración 2: Armenia, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 3: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 4: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Conjunto estable alcanzado en iteración 4.
+
+--- Consulta: Pereira -> Cali ---
+Iteración 0: Pereira
+Iteración 1: Armenia, Cartago, Filandia, Manizales, Pereira
+Iteración 2: Armenia, Cali, Cartago, Filandia, Manizales, Pereira, Salento
+Iteración 3: Armenia, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 4: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 5: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Conjunto estable alcanzado en iteración 5.
+
+--- Consulta: Armenia -> Bogota ---
+Iteración 0: Armenia
+Iteración 1: Armenia, Cali, Cartago, Pereira, Salento
+Iteración 2: Armenia, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 3: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 4: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Conjunto estable alcanzado en iteración 4.
+
+--- Consulta: Cartago -> Manizales ---
+Iteración 0: Cartago
+Iteración 1: Armenia, Cartago, Pereira
+Iteración 2: Armenia, Cali, Cartago, Filandia, Manizales, Pereira, Salento
+Iteración 3: Armenia, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 4: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Iteración 5: Armenia, Bogota, Cali, Cartago, Filandia, Manizales, Medellin, Pereira, Salento
+Conjunto estable alcanzado en iteración 5.
+

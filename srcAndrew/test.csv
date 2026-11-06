@@ -1,0 +1,43 @@
+# ==========================================
+# TEST DATASET - Rutas entre ciudades
+# ==========================================
+
+# Main connections
+Armenia,Pereira,45
+Pereira,Manizales,52
+Armenia,Cartago,60
+Cartago,Pereira,25
+
+# Reversed duplicate
+Pereira,Armenia,45
+
+# Self connection
+Manizales,Manizales,0
+
+# Same connection, different distance
+Cartago,Pereira,30
+
+# More valid connections
+Manizales,Salento,35
+Salento,Armenia,28
+Pereira,Filandia,22
+Filandia,Salento,18
+
+# Another reversed duplicate
+Salento,Manizales,35
+
+# More self connections
+Pereira,Pereira,0
+Armenia,Armenia,10
+
+# Malformed lines
+Armenia,Bogota
+Bogota,Medellin,abc
+,Quindio,50
+Armenia,,40
+Armenia,Cali,40,extra
+
+# More valid connections
+Bogota,Medellin,415
+Medellin,Cali,420
+Cali,Armenia,180
