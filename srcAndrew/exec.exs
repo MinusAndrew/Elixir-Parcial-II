@@ -1,5 +1,5 @@
 defmodule Exec do
-  @connections_file Path.join(__DIR__, "test.csv")
+  @connections_file Path.join(__DIR__, "conexiones.csv")
   @consultations_file Path.join(__DIR__, "consultas.txt")
   @error_report Path.join(__DIR__, "errores_conexiones.txt")
   @debug_report Path.join(__DIR__, "depuracion_conexiones.txt")
