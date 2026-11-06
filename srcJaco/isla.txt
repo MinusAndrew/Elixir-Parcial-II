@@ -1,5 +1,7 @@
-~ ~ ~ ~ A ~ ~
-~ S C C C ~
-~ R B T T C ~
+~ ~ ~ ~ ~ ~ ~
+~ P C C C C ~
+~ R T T T C ~
+~ D C T C C ~
+~ R T C A T ~
 ~ C D C C B ~
 ~ ~ ~ ~ ~ ~ ~
