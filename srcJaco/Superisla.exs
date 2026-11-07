@@ -1,5 +1,3 @@
-Code.require_file("Terreno.exs", __DIR__)
-
 defmodule Ruta do
   defstruct [:posiciones, :costo]
 end
